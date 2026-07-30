@@ -19,7 +19,7 @@ export const profile = {
   status: [
     { label: 'Location', value: 'Alexandria, EG' },
     { label: 'CGPA', value: '3.93 / 4.00' },
-    { label: 'Focus', value: 'Networking · Support · Data' },
+    { label: 'Focus', value: 'Software · Engineering · Problem Solving' },
     { label: 'Availability', value: 'Summer Internship' },
   ],
 }
